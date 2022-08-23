@@ -71,6 +71,7 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    font-size: 18pt;
   }
 
   .card-item {
@@ -306,7 +307,7 @@ footer.sticky-bottom {
 
       .badge {
         color: var(--global-card-bg-color) !important;
-        background-color: var(--global-theme-color) !important;
+        background-color: var(--global-text-color-light) !important;
       }
     }
   }
@@ -445,7 +446,7 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    color: var(--global-text-color-light);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
@@ -460,20 +461,21 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
   h1 {
-    color: var(--global-theme-color);
+    color: var(--global-header-color);
     font-size: 2rem;
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
   }
   h2 {
+    color: var(--global-theme-color);
     margin-bottom: 1rem;
     span {
       font-size: 1.5rem;
     }
   }
   h2.year {
-    color: var(--global-divider-color);
+    color: var(--global-text-color-light);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
