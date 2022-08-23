@@ -59,9 +59,7 @@
   contents:
     - year: 2021
       items: 
-        - Hamburg Prize for Theoretical Physics
-    - year: 2021
-      items: 
+        - Hamburg Prize for Theoretical Physics 
         - Simons Investigator
     - year: 2020
       items: 
@@ -69,23 +67,17 @@
     - year: 2019
       items: 
         - Hanna Visiting Scholar at Stanford University
-    - year: 2017.2020
+    - year: 2017-2020
       items: 
         - Selected as Highly Cited Researcher by Clarivate Analytics
     - year: 2015
       items: 
         - Senior Fellow at the Institute for Theoretical Studies ETH Zurich
-    - year: 2015
-      items:
         - Simons Fellowship in Theoretical Physics
-    - year: 2015
-      items:
         - Elected Distinguished Scholar at the Max Planck Institute of Quantum Optics (MPQ), Garching, Germany
     - year: 2014
       items: 
         - Siemens Research Award, Humboldt Foundation, Germany
-    - year: 2014
-      items:
         - Selected as a Thomson Reuters highly cited researcher
     - year: 2012
       items:
@@ -96,6 +88,4 @@
     - year: 2002
       items: 
         - National Science Foundation Career Award 
-    - year: 2002
-      items: 
         - Sloan Fellowship
