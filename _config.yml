@@ -6,13 +6,12 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Eugene
 middle_name: 
 last_name: Demler
-email: demlere(at)phys.eth.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
-  Powered by Jekyll
-  Hosted by GitHub Pages
-  Built by Ilona Demler
+  Powered by Jekyll;
+  Hosted by GitHub Pages;
+  Built by Ilona Demler (her first website comission);
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -41,7 +40,7 @@ repo_theme_dark: light           # https://github.com/anuraghazra/github-readme-
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout

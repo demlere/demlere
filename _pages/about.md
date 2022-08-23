@@ -18,7 +18,9 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+**email**: demlere (at) phys.ethz.ch
 
 Theoretical condensed matter physics, atomic and molecular physics, quantum optics, quantum simulations
 
 Work in progress :) 
+
