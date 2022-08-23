@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-[Harvard Physics 143a]({{ site.url }}{{ site.baseurl }}/assets/pdf/143a.pdf)
+[Harvard Physics 143a]({{ site.url }}{{ site.baseurl }}/assets/pdf/143a.pdf). Introduction to quantum mechanics.
 
 [Harvard Physics 144]({{ site.url }}{{ site.baseurl }}/assets/pdf/p144.pdf). Symmetries and geometry in quantum mechanics
 
