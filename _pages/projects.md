@@ -5,7 +5,7 @@ permalink: /group/
 description: Past and present students.
 nav: true
 nav_order: 2
-display_categories: [current, past]
+display_categories: [current students, former students, current postdocs, former postdocs]
 horizontal: false
 ---
 

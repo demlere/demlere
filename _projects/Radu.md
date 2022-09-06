@@ -4,6 +4,6 @@ title: Radu Andrei
 description: M.S. student (ETH)
 img:
 importance: 1
-category: current
+category: current students
 ---
 
